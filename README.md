@@ -3,8 +3,6 @@ This repository contains R code used in Guocheng Jiang's first-author manuscript
 
 **"Common vascular white matter lesions contribute to specific grey matter network disruptions"**
 
-This section will be updated after the manuscript is published. If you are interested in applying or adapting any of the following scripts for your research, please cite the work once it becomes available.
-
 # Project 1: Structural Covariance Network (SCN) Simulator
 **Related script: 1_SCN_Simulator.R**
 
