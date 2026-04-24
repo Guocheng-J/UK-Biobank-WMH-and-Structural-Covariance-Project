@@ -1,7 +1,5 @@
 # UK-Biobank-WMH-and-Structural-Covariance-Project
-This repository contains R code used in Guocheng Jiang's first-author manuscript entitled:
-
-**"Common vascular white matter lesions contribute to specific grey matter network disruptions"**
+This repository contains R code used in Guocheng Jiang's first-author manuscript entitled **"Common vascular white matter lesions contribute to specific grey matter network disruptions"** If you are interested in applying or adapting any of the following scripts for your research, please cite the published manuscript once it becomes available.
 
 # Project 1: Structural Covariance Network (SCN) Simulator
 **Related script: 1_SCN_Simulator.R**
