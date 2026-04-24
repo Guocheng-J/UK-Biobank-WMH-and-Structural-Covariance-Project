@@ -31,7 +31,7 @@ The script compares grey matter SCN organization between two groups groups, incl
 # Project 3:  Longitudinal associations between brain white matter lesions and grey matter volumetic changes.
 **Related script: 3_Longitudinal_BLCS_Analysis**
 
-The script uses **bivariate latent change score models (BLCS)** to examine longitudinal relationships between **white matter hyperintensity (WMH) accumulation** and **regional grey matter volume change**.
+The script uses bivariate latent change score models (BLCS) to examine longitudinal relationships between white matter hyperintensity (WMH) accumulation and regional grey matter volume change.
 The example in this script analyze and tests for the following associations:
 1. Whether baseline WMH volume predicts faster regional grey matter volume change,
 2. Whether baseline regional grey matter volume predicts faster WMH volume change,
