@@ -10,7 +10,7 @@ Related script: 1_SCN_Simulator.R
 
 In the first simulation, 3 × 3 SCN was built and step-functions were plotted for visualization. This simulation provides conceptual illustration of the progressive thresholding workflow using two simplified SCNs. Example outputs:
 1. Correlation matrix plots for two 3 × 3 SCNs.
-2. A step plot showing the percentage of surviving connections across threshold values.
+2. A step function plot showing the percentage of surviving connections across threshold values.
 
 In the second simulation, we assessed of minimum effect size required for SCN connectivity comparisons using log rank tests and Cox-proportional hazards model. Simulations show the range of standardized effect size (Cohen’s d) required to achieve X% statistical power for detecting global differences in the network connectivity at different size of SCNs. Example output:
 1. A small/medium/large effect size (Cohen's d) is required to achieve X% statistical power to detect a significant group difference in SCN connectivity given a network size of N nodes.
