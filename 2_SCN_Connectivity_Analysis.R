@@ -947,7 +947,7 @@ df_marked$rank_final <- df_marked$rank_final / (sum(df_marked$is_all_rich) + 2)
 
 # Tabular output of pre-plot backbone edge information.
 head(df_marked)
-write.csv(df_marked, "BackboneAnalyis_Results.csv")
+write.csv(df_marked, "BackboneAnalysis_Results.csv")
 
 # Initiate the circos plotting parameters: 
 circos.clear()
@@ -1037,5 +1037,5 @@ circos.trackPlotRegion(track.index = 3, bg.border = NA, panel.fun = function(x, 
 }
 
 # The font is set for 3500x3500+ pixel figure save
-png("Circular_RichClub.png",
+png("BackboneAnalysis_Results.png",
     width = 3500, height = 3500, res = 400)
