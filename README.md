@@ -6,7 +6,7 @@ This repository contains R code used in Guocheng Jiang's first-author manuscript
 This section will be updated after the manuscript is published. If you are interested in applying or adapting any of the following scripts for your research, please cite the work once it becomes available.
 
 # Project 1: Structural Covariance Network (SCN) Simulator
-Related script: 1_SCN_Simulator.R
+**Related script: 1_SCN_Simulator.R**
 
 In the first simulation, 3 × 3 SCN was built and step-functions were plotted for visualization. This simulation provides conceptual illustration of the progressive thresholding workflow using two simplified SCNs. Example outputs:
 1. Correlation matrix plots for two 3 × 3 SCNs.
@@ -20,7 +20,7 @@ In the third simulation, we examined the effect of data stratification on the es
 2. At 2N folds, simulation results showed substantially increased dispersion of effect size estimate. 
 
 # Project 2:  Structural covariance network (SCN) analysis: Comparisons of global and local backbone network connectivity between two groups.
-Related script: 2_SCN_Connectivity_Analysis.R
+**Related script: 2_SCN_Connectivity_Analysis.R**
 
 The script compares grey matter SCN organization between two groups groups, including:
 1. Construction of SCN adjacency matrices from regional brain volume data.
@@ -29,7 +29,7 @@ The script compares grey matter SCN organization between two groups groups, incl
 4. Visualization of preserved and WMH-vulnerable backbone edges using network and circular chord diagrams.
 
 # Project 3:  Longitudinal associations between brain white matter lesions and grey matter volumetic changes.
-Related script: 3_Longitudinal_BLCS_Analysis
+**Related script: 3_Longitudinal_BLCS_Analysis**
 
 The script uses **bivariate latent change score models (BLCS)** to examine longitudinal relationships between **white matter hyperintensity (WMH) accumulation** and **regional grey matter volume change**.
 The example in this script analyze and tests for the following associations:
