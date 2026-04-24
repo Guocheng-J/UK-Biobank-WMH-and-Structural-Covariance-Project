@@ -1,7 +1,7 @@
 # UK-Biobank-WMH-and-Structural-Covariance-Project
 This repository contains R code used in Guocheng Jiang's first-author manuscript entitled **"Common vascular white matter lesions contribute to specific grey matter network disruptions"** If you are interested in applying or adapting any of the following scripts for your research, please cite the published manuscript once it becomes available.
 
-# Project 1: Structural Covariance Network (SCN) Simulator
+# Project 1: Structural Covariance Network (SCN) simulator
 **Related script: 1_SCN_Simulator.R**
 
 In the first simulation, 3 × 3 SCN was built and step-functions were plotted for visualization. This simulation provides conceptual illustration of the progressive thresholding workflow using two simplified SCNs. Example outputs:
@@ -15,7 +15,7 @@ In the third simulation, we examined the effect of data stratification on the es
 1. At N folds, Cohen’s d estimates remained relatively consistent in direction across folds.
 2. At 2N folds, simulation results showed substantially increased dispersion of effect size estimate. 
 
-# Project 2:  Structural covariance network (SCN) analysis: Comparisons of global and local backbone network connectivity between two groups.
+# Project 2:  Structural covariance network analysis: Comparisons of global and local backbone network connectivity.
 **Related script: 2_SCN_Connectivity_Analysis.R**
 
 The script compares grey matter SCN organization between two groups groups, including:
