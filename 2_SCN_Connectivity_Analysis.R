@@ -69,9 +69,6 @@ GenerateNode <- function(Graph_input) {
     pCG = lm(PCC_GMV_bilateral ~ Age_baseline_imaging + 
                Sex_value + eTIV_baseline_L + vCSF_vol_ml, 
              data=Graph_input)$residuals,
-    #Cune = lm(Cuneal_cortex_GMV_bilateral ~ Age_baseline_imaging + 
-    #           Sex_value + eTIV_baseline_L, 
-    #         data=Graph_input)$residuals,
     FMC =  lm(Frontal_medial_cortex_GMV_bilateral ~ Age_baseline_imaging + 
                 Sex_value + eTIV_baseline_L + vCSF_vol_ml, 
               data=Graph_input)$residuals,
