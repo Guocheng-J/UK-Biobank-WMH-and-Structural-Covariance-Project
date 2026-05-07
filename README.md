@@ -20,7 +20,7 @@ In the third simulation, we examined the effect of data stratification on the es
 
 The script compares grey matter SCN organization between two groups groups, including:
 1. Construction of SCN adjacency matrices from regional brain volume data.
-2. Global SCN connectivity comparison using threshold-survival curves and Cox proportional hazards models.
+2. Global SCN connectivity comparison from the step functions using Cox proportional hazards models.
 3. Identification of stable backbone network connections.
 4. Visualization of preserved and WMH-vulnerable backbone edges using network and circular chord diagrams.
 
